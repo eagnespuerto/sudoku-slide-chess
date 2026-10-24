@@ -1,5 +1,11 @@
 # Sudoku Slide Chess
 
+[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![made with](https://img.shields.io/badge/made%20with-HTML5-E34F26?logo=html5&logoColor=white)](https://github.com/eagnespuerto/sudoku-slide-chess)
+[![website](https://img.shields.io/badge/website-live-brightgreen)](https://eagnespuerto.github.io/sudoku-slide-chess/)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-support%20me-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/eagnespuerto)
+[![Linktree](https://img.shields.io/badge/Linktree-soitsagnes-43E55E?logo=linktree&logoColor=white)](https://linktr.ee/soitsagnes)
+
 A playable reading of [xkcd 3139, "Chess Variant"](https://xkcd.com/3139/) — Randall Munroe's sliding number puzzle chess. Numbered officers, one hole, a board that rotates.
 
 **Play it:** https://eagnespuerto.github.io/sudoku-slide-chess/
